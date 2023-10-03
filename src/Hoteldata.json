@@ -1,0 +1,131 @@
+
+   [
+        {
+            "id":1,
+            "city":"London",
+            "text":"For Rent",
+            "imgSrc":"https://cdn.pixabay.com/photo/2019/10/17/02/39/villa-4555824_640.jpg",
+            "address":"8558 Pecan St.",
+            "name":"RCE Theaters-907 S Beckford Dr,Henderson,NC 27536",
+            "room":"3 Rooms",
+            "bed":"4 Bed",
+            "bath":"1 Bath",
+            "area":"732 sft",
+            "price":"$7,255 /month"
+
+        },
+        {
+            "id":2,
+            "city":"London",
+            "text":"For Rent",
+            "imgSrc":"https://cdn.pixabay.com/photo/2019/10/17/02/39/villa-4555818_1280.jpg",
+            "address":"8558 Parker St.",
+            "name":"Costo-Wholesale-1021 Oak Forest Ln,Myrtel,SC",
+            "room":"3 Rooms",
+            "bed":"4 Bed",
+            "bath":"1 Bath",
+            "area":"732 sft",
+            "price":"$7,255 /month"
+
+            
+        },
+        {
+            "id":3,
+            "city":"London",
+            "text":"For Sale",
+            "imgSrc":"https://cdn.pixabay.com/photo/2017/07/03/21/35/house-2469067_640.jpg",
+            "address":"3890 Poplar Dr.",
+            "name":"Regal North Hills-4150 Main at North Hills St,Relieigh",
+            "room":"3 Rooms",
+            "bed":"4 Bed",
+            "bath":"1 Bath",
+            "area":"732 sft",
+            "price":"$5,265 /month"
+
+        },
+        {
+            "id":4,
+            "city":"London",
+            "text":"For Rent",
+            "imgSrc":"https://images.unsplash.com/photo-1600047509807-ba8f99d2cdde?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fHByb3BlcnR5fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+            "address":"8558 Green St.",
+            "name":"Spring Lane Cinemas - 1351 Plaza Blvd,Sanford,NC 27730",
+            "room":"3 Rooms",
+            "bed":"4 Bed",
+            "bath":"1 Bath",
+            "area":"732 sft",
+            "price":"$7,255 /month"
+
+        },
+        {
+            "id":5,
+            "city":"London",
+            "text":"For Sale",
+            "imgSrc":"https://images.unsplash.com/photo-1581279813180-4dddc1008167?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTF8fHByb3BlcnR5fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+            "address":"8558 Green St.",
+            "name":"RCE Theaters-907 S Beckford Dr,Henderson,NC 27536",
+            "room":"3 Rooms",
+            "bed":"4 Bed",
+            "bath":"1 Bath",
+            "area":"732 sft",
+            "price":"$7,255 /month"
+
+        },
+        {
+            "id":6,
+            "city":"London",
+            "text":"For Rent",
+            "imgSrc":"https://images.unsplash.com/photo-1600585154363-67eb9e2e2099?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTZ8fHByb3BlcnR5fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+            "address":"8558 Pecan St.",
+            "name":"Dollar General - 5416 Rock Quarry Rd,Raleigh,NC 27610",
+            "room":"3 Rooms",
+            "bed":"4 Bed",
+            "bath":"1 Bath",
+            "area":"732 sft",
+            "price":"$7,255 /month"
+
+        },
+        {
+            "id":7,
+            "city":"London",
+            "text":"For Rent",
+            "imgSrc":"https://images.unsplash.com/photo-1600585154363-67eb9e2e2099?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTZ8fHByb3BlcnR5fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+            "address":"8558 Pecan St.",
+            "name":"Dollar General - 5416 Rock Quarry Rd,Raleigh,NC 27610",
+            "room":"3 Rooms",
+            "bed":"4 Bed",
+            "bath":"1 Bath",
+            "area":"732 sft",
+            "price":"$7,255 /month"
+
+        },
+        {
+            "id":8,
+            "city":"London",
+            "text":"For Rent",
+            "imgSrc":"https://images.unsplash.com/photo-1600585154363-67eb9e2e2099?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTZ8fHByb3BlcnR5fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+            "address":"8558 Pecan St.",
+            "name":"Dollar General - 5416 Rock Quarry Rd,Raleigh,NC 27610",
+            "room":"3 Rooms",
+            "bed":"4 Bed",
+            "bath":"1 Bath",
+            "area":"732 sft",
+            "price":"$7,255 /month"
+
+        },
+        {
+            "id":9,
+            "city":"London",
+            "text":"For Rent",
+            "imgSrc":"https://images.unsplash.com/photo-1600585154363-67eb9e2e2099?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTZ8fHByb3BlcnR5fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+            "address":"8558 Pecan St.",
+            "name":"Dollar General - 5416 Rock Quarry Rd,Raleigh,NC 27610",
+            "room":"3 Rooms",
+            "bed":"4 Bed",
+            "bath":"1 Bath",
+            "area":"732 sft",
+            "price":"$7,255 /month"
+
+        }
+    ]
+    

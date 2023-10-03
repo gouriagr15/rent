@@ -1,0 +1,9 @@
+.dapyq{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4px;
+}
+.dd{
+    display: flex;
+    justify-content: space-between;
+}

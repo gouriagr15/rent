@@ -1,38 +1,37 @@
-.App {
-  text-align: center;
+/* App.css */
+*{
+  background-color: rgb(231, 234, 237);
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.city-tabs {
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin-bottom: 20px; /* Add margin to the bottom */
+  margin-left: 120px;
+  color: #f0f0f0;
 }
 
-.App-link {
-  color: #61dafb;
+
+.city-tabs button {
+  margin-right: 10px; /* Add margin to the right of each button */
+  padding: 8px 16px; /* Add padding to the buttons */
+  border: 1px solid rgb(230, 228, 224);
+  border-radius: 45%;
+  background-color: rgb(243, 232, 232);
+  font-weight: bold;
+  cursor: pointer;
+  transition: color 0.3s, background-color 0.3s; /* Smooth color and background-color transitions */
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.city-tabs button:hover {
+  background-color: #a2b8ec; /* Change background color on hover */
+  color: rgb(9, 9, 14); /* Change text color on hover */
+ 
+}
+
+.city-tabs button.active {
+  color:white; /* Change text color for active button to blue */
+  background-color: blue;
+  
+}
+.heading{
+  text-align: center;
 }
